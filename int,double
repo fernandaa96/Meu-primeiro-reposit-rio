@@ -1,0 +1,20 @@
+void main(){
+  
+
+  
+  
+  int swift=1;
+  int rep= 4;
+  int resultado= swift+ rep;
+  print(resultado) ;
+  
+  int subtracao = swift - rep;
+  print(subtracao);
+  
+  int multiplicacao = swift*rep;
+  print(multiplicacao);
+  
+  double divisao = swift/rep;
+  print(divisao);
+
+}
