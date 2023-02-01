@@ -1,0 +1,7 @@
+void main() {
+String nanda = 'Nanduca';
+print('Ola nanda, seja bem vinda!');
+
+bool cake = true;
+print('$cake');
+}
