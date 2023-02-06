@@ -1,0 +1,29 @@
+void main () {
+
+ int primeiroNumero = 1;
+ int segundoNumero = 10;
+ 
+if (primeiroNumero < segundoNumero)
+{
+  
+ print("O primeiro número é menor que o segundo!");
+  } else
+ 
+  print("O pirmeiro número é menor que o segundo!");
+ }
+
+^~~~~~~~~~~~~~~~//~~~~~~~~~~~~~~~~
+
+void main () {
+
+ int primeiroNumero = 1;
+ int segundoNumero = 10;
+ 
+if (primeiroNumero < segundoNumero)
+{
+  
+ print("O primeiro número é menor que o segundo!");
+  } else
+ 
+  print("O pirmeiro número é menor que o segundo!");
+ }
