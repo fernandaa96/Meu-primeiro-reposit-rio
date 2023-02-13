@@ -1,0 +1,9 @@
+void main() {
+String variavelDeTexto = "Olá este é meu texto sobre um crime histórico alternante";
+String verdadeiroufalso = "Utilize bool true or false para deslumbrar partes deste crime";
+String codigoana = "Luz no império romanikhy";
+
+print(variavelDeTexto);
+print(verdadeiroufalso);
+print(codigoana);
+    
